@@ -1,0 +1,27 @@
+
+# 파이썬 가상환경
+py39_mine_venv
+
+#로그및 백업 파일
+whitelist_copy.json
+world_copy
+world_copy.tar.gz
+
+# 시스템파일
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.lesshst
+
+#깃 파일
+.git/
+.gitconfig
+
+#캐시 및 설정 파일 
+.cache/
+.config/
+.vim/
+.vim/info
+.ssh/
+
